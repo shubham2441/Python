@@ -2,5 +2,7 @@ Tesseract is an optical character recognition engine for various operating syste
 Optical Character Recognition will extract all the text from the input image.
 To build an OCR using Tesseract may not be the very efficient approach as we will not be able to extract specific text in a particular form.
 We need to build an OCR that will extract the text in the form of an array so we can use only the neccessary text.
+OCR.ipynb -> OCR built with the help of Tesseract
+
 
 
