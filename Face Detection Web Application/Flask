@@ -1,1 +1,2 @@
 This is the web application created with the help of Flask which is the python framework to build the webpages.
+Application uses the Opencv library to open the webcam and face detection method to detect the face in the frame.
