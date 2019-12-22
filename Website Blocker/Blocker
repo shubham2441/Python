@@ -1,0 +1,2 @@
+code.py -> The basic application to block a particular website for a particular time period.
+You have to connect the hosts file of your system which is located C/windows/system32/drivers/etc(this is the location of the host file for windows) and then you have to setup the programe so that the code will run in the background of your system.
