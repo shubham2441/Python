@@ -1,1 +1,2 @@
 Real Estate Web Scrapping.ipynb => code to scrap the Real Estate data in a proper tabular manner. We can scrap the data of any specifeid website. This is an example of a Web Collector Application
+Real_Estate.csv => Scrapped Data from the specified Real Estate website, saved in the form of csv File. 
