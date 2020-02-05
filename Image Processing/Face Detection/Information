@@ -1,1 +1,2 @@
 
+facestore.py => This the python implemetation to store the feature of the face and store it in the format of .npy
